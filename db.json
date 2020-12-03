@@ -1,0 +1,102 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Jogan",
+          "alamat": "IDN",
+          "umur": "22",
+          "nohp": "081782231"
+        },
+        {
+          "id": 2,
+          "nama": "Pekora",
+          "alamat": "JPN",
+          "umur": "18",
+          "nohp": "08175523"
+        },
+        {
+          "id": 3,
+          "nama": "Ina",
+          "alamat": "CND",
+          "umur": "231",
+          "nohp": "081782321"
+        },
+        {
+          "id": 4,
+          "nama": "Gura",
+          "alamat": "ATL",
+          "umur": "24",
+          "nohp": "08829312"
+        },
+        {
+          "id": 5,
+          "nama": "Mori",
+          "alamat": "CND",
+          "umur": "991",
+          "nohp": "0529312"
+        },
+        {
+          "id": 6,
+          "nama": "Marine",
+          "alamat": "JPN",
+          "umur": "17",
+          "nohp": "08127231"
+        },
+        {
+          "id": 7,
+          "nama": "Moona",
+          "alamat": "IDN",
+          "umur": "21",
+          "nohp": "0895231"
+        },
+        {
+          "id": 8,
+          "nama": "Watame",
+          "alamat": "AUS",
+          "umur": "28",
+          "nohp": "02823112"
+        },
+        {
+          "id": 9,
+          "nama": "Garson",
+          "alamat": "IDN",
+          "umur": "21",
+          "nohp": "08723121"
+        },
+        {
+          "id": 10,
+          "nama": "Dante",
+          "alamat": "IDN",
+          "umur": "16",
+          "nohp": "01823123"
+        },
+        {
+          "id": 12,
+          "nama": "Hendy",
+          "alamat": "IDN",
+          "umur": "16",
+          "nohp": "01823123"
+        },
+        {
+          "id": 13,
+          "nama": "Daph",
+          "alamat": "CND",
+          "umur": "16",
+          "nohp": "01823123"
+        },
+        {
+          "id": 14,
+          "nama": "Gerald",
+          "alamat": "USA",
+          "umur": "16",
+          "nohp": "01823123"
+        },
+        {
+          "id": 15,
+          "nama": "Jose",
+          "alamat": "NTH",
+          "umur": "16",
+          "nohp": "01823123"
+        }
+      ]
+}
